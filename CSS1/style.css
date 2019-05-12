@@ -1,0 +1,17 @@
+/* MAIN styles */
+body {
+    font-family: 'Source Code Pro', monospace;
+}
+
+h1 {
+    color: hotpink;
+}
+h2 {
+    color: hotpink;
+}
+.color {
+    color: rgba(220, 204, 178, 0.9);
+}
+.italic {
+    font-style: italic;
+}
